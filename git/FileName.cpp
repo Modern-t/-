@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-	cout << "woc" << endl;
+	cout << "f**k it s**t" << endl;
 	return 0;
 	system("pause");
 }
